@@ -71,9 +71,29 @@ The analysis suggests a relationship between increased social media usage and ne
 - Explore interventions focused on balanced digital consumption  
 
 ## ▶️ How to Run
-
 1. Clone the repository  
 2. Open the notebook in Jupyter Notebook or JupyterLab  
 3. Run all cells to reproduce the analysis  
 
+
 ## 📁 Project Structure
+
+├── data/ # Raw datasets
+├── figures/ # Generated visualizations
+├── notebooks/ # Jupyter notebooks
+│ └── analysis.ipynb
+├── README.md
+
+
+## Tools Used
+
+- Python (Pandas, Matplotlib, Seaborn)  
+- SQL (for data exploration)  
+
+## 👤 About Me
+
+Data analyst with a background in design, innovation, and higher education. Experienced in working within Scrum teams and innovation departments, focusing on improving the student experience through data-driven insights.
+
+I have contributed to initiatives that optimize processes across the student journey, from enrollment to graduation, leveraging data analysis for strategic and innovative decision-making.
+
+Currently building projects using SQL, Python, and data visualization to strengthen my ability to solve real-world business problems and support data-driven strategies.
