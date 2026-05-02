@@ -17,7 +17,7 @@ Key questions:
 - Are there thresholds where mental health indicators worsen?
 - How does variability change across different usage groups?
 
-## Data Raw
+## Raw data
 
 The analysis is based on two independent datasets:
 
