@@ -17,12 +17,22 @@ Key questions:
 - Are there thresholds where mental health indicators worsen?
 - How does variability change across different usage groups?
 
-## Data
+## Data Raw
 
 The analysis is based on two independent datasets:
 
 - Social media usage dataset  
-- Mental health indicators dataset  
+- Mental health indicators dataset
+  
+## Clean data
+```
+│
+├── 01_mental_health_usage_groups.csv
+├── 02_usage_vs_anxiety.csv
+├── 03_usage_vs_sleep.csv
+├── 04_platform_mental_health.csv
+├── 05_usage_groups_distribution.csv
+```
 
 These datasets include variables such as:
 - Daily time spent on social media  
