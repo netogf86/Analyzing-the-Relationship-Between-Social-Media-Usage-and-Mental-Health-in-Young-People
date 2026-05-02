@@ -78,12 +78,13 @@ The analysis suggests a relationship between increased social media usage and ne
 
 ## 📁 Project Structure
 
-├── data/ # Raw datasets
-├── figures/ # Generated visualizations
-├── notebooks/ # Jupyter notebooks
-│ └── analysis.ipynb
+```
+├── data/                  # Raw datasets
+├── figures/               # Generated visualizations
+├── notebooks/             # Jupyter notebooks
+│   └── analysis.ipynb
 ├── README.md
-
+```
 
 ## Tools Used
 
